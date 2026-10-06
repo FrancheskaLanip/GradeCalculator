@@ -2,7 +2,7 @@
 
 A simple web page that lets you add subjects with a grade and unit weight, then shows the weighted average automatically. Built with plain HTML, CSS, and JavaScript — no frameworks, no page reloads.
 
-![Grade Calculator screenshot](preview.png)
+![Grade Calculator screenshot](image/preview.png)
 
 ## Features
 
